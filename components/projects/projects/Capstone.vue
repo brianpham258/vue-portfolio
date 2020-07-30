@@ -1,0 +1,127 @@
+<template>
+  <div>
+    <div class="card">
+      <div class="card-image">
+        <figure class="image">
+          <img src="../../../static/img/CapstoneHome.png" alt="Capstone" />
+        </figure>
+      </div>
+      <div class="card-content">
+        <div class="media">
+          <div class="media-content">
+            <p class="title is-4">Capstone project</p>
+          </div>
+        </div>
+
+        <div class="content">A web application that uses for managing videos</div>
+      </div>
+      <footer class="card-footer">
+        <button class="card-footer-item button" @click="showCapstoneModal">See more</button>
+      </footer>
+    </div>
+
+    <!-- Modal -->
+    <div :class="capstoneModalActive ? 'modal is-active' : 'modal'">
+      <div class="modal-background"></div>
+      <div class="modal-card">
+        <header class="modal-card-head">
+          <p class="modal-card-title">Capstone Project</p>
+          <button class="delete" aria-label="close" @click="hideCapstoneModal"></button>
+        </header>
+        <section class="modal-card-body">
+          <!-- Content ... -->
+          <p>
+            This is my capstone project, which me and 2 other
+            classmates have just finished this August of 2020.
+            This is, so far, my biggest and most professional
+            project. In this project, I was responsible for all of
+            the front-end tasks.
+          </p>
+          <br />
+          <p class="is-text-bold">Technologies used</p>
+          <div>Front-end:</div>
+          <div class="has-indentation">
+            - HTML
+            <br />- CSS
+            <br />- JavaScript
+            <br />- React.js
+            <br />- Next.js
+            <br />- AntDesign library
+            <br />- Bulma library
+            <br />- Axios library
+            <br />
+          </div>
+          <div>Back-end:</div>
+          <div class="has-indentation">
+            - TypeScript
+            <br />- Node.js
+            <br />- Express.js
+            <br />
+          </div>
+          <div>Database:</div>
+          <div class="has-indentation">- SQL database</div>
+          <img
+            alt="Capstone Home"
+            src="../../../static/img/CapstoneHome.png"
+            class="has-margin-bottom"
+          />
+          <div class="divider" />
+          <img
+            alt="Capstone Playlists"
+            src="../../../static/img/CapstonePlaylists.png"
+            class="has-margin-bottom"
+          />
+          <div class="divider" />
+          <img
+            alt="Capstone Playlist Videos"
+            src="../../../static/img/CapstonePlaylistVideos.png"
+            class="has-margin-bottom"
+          />
+          <div class="divider" />
+          <img
+            alt="Capstone Profile"
+            src="../../../static/img/CapstoneProfile.png"
+            class="has-margin-bottom"
+          />
+          <div class="divider" />
+          <img
+            alt="Capstone Users"
+            src="../../../static/img/CapstoneUsers.png"
+            class="has-margin-bottom"
+          />
+          <div class="divider" />
+          <img
+            alt="Capstone Video Details"
+            src="../../../static/img/CapstoneVideoDetails.png"
+            class="has-margin-bottom"
+          />
+        </section>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "Capstone",
+  data() {
+    return {
+      capstoneModalActive: false,
+    };
+  },
+  methods: {
+    showCapstoneModal: function () {
+      this.capstoneModalActive = true;
+    },
+    hideCapstoneModal: function () {
+      this.capstoneModalActive = false;
+    },
+  },
+};
+</script>
+
+<style scoped>
+.has-indentation {
+  margin-left: 30px;
+}
+</style>
