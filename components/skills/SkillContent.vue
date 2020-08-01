@@ -1,8 +1,8 @@
 <template>
   <div>
     <div id="profile" class="is-background-primary is-title">SKILLS</div>
-    <div class="skills-wrapper">
-      <div id="skills-left">
+    <div class="columns is-half-desktop">
+      <div id="skills-left" class="column">
         <div>Front-end Development</div>
         <ProgressBar :stepsCompleted="3" :totalSteps="5" />
         <div>JavaScript</div>
@@ -10,7 +10,7 @@
         <div>React.JS / Next.JS</div>
         <ProgressBar :stepsCompleted="3" :totalSteps="5" />
       </div>
-      <div id="skills-right">
+      <div id="skills-right" class="column">
         <div>Vue.JS / Nuxt.JS</div>
         <ProgressBar :stepsCompleted="2" :totalSteps="5" />
         <div>Python</div>
@@ -33,11 +33,5 @@ export default {
 </script>
 
 <style scoped>
-.skills-wrapper {
-  display: flex;
-}
 
-#skills-right {
-  margin-left: 400px;
-}
 </style>
