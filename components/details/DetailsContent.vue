@@ -1,8 +1,8 @@
 <template>
   <div>
     <div id="details" class="is-background-primary is-title">DETAILS</div>
-    <div class="details-wrapper">
-      <div id="details-left">
+    <div class="columns is-half-desktop">
+      <div id="details-left" class="column">
         <div class="is-text-bold">Contacts</div>
         <div style="margin-bottom: 15px">
           Victoria, BC, Canada
@@ -22,7 +22,8 @@
           <br />Hanoi
         </div>
       </div>
-      <div id="details-right">
+
+      <div id="details-right" class="column">
         <div class="is-text-bold">Nationality</div>
         <div style="margin-bottom: 15px">Vietnam</div>
 
@@ -43,11 +44,4 @@ export default {
 </script>
 
 <style scoped>
-.details-wrapper {
-  display: flex;
-}
-
-#details-right {
-  margin-left: 400px
-}
 </style>
