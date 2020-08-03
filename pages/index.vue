@@ -58,15 +58,15 @@ export default {
 }
 
 a:link {
-  color: black;
+  color: #e69900;
   text-decoration: underline;
 }
 a:visited {
-  color: black;
+  color: #e69900;
   text-decoration: underline;
 }
 a:hover {
-  color: black;
+  color: #e69900;
   text-decoration: underline;
 }
 a:active {
