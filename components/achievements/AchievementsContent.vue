@@ -25,7 +25,10 @@
         >Shopping List Application</a>
       </div>
 
-      <div class="has-margin-top">- Took part in Global Game Jam 2019 and created a 2D game with another classmate using Unity and C#.</div>
+      <div class="has-margin-top">
+        - With another classmate, took part in Global Game Jam 2019 and 
+        created a 2D game using Unity and C#.
+      </div>
       <div>
         <a
           href="https://github.com/quanghuy25899/GlobalGameJam"
@@ -35,7 +38,10 @@
         >GitHub link</a>
       </div>
 
-      <div class="has-margin-top">- Finished a game development course and created a 3D game with another classmate using Unity and C#.</div>
+      <div class="has-margin-top">
+        - After finished a Game Development Course at Camosun College me and 
+        another classmate created a 3D game using Unity and C#.
+        </div>
       <div>
         <a
           href="https://github.com/quanghuy25899/ICS223/tree/master/Pandemic"
@@ -44,8 +50,6 @@
           class="has-margin-left"
         >GitHub link</a>
       </div>
-
-      <div class="has-margin-top">- As a front-end developer, took part in developing a web application for Camosun Innovates to manage videos.</div>
 
       <div class="has-margin-top">- Maintaining a Wordpress website for a local restaurant.</div>
       <div>
@@ -56,6 +60,72 @@
           class="has-margin-left"
         >Alysa&apos;s pho &amp; banh my</a>
       </div>
+
+      <div class="has-margin-top">- Developed another e-portfolio using Next.JS</div>
+      <div>
+        <a
+          href="https://brianpham.vercel.app"
+          target="_blank"
+          rel="noreferrer"
+          class="has-margin-left"
+        >E-portfolio</a>
+      </div>
+
+      <div class="has-margin-top">
+        - Developed a web application for Camosun Innovates to manage videos. 
+        It was my Capstone project at Camosun College. I was in a team of 
+        three people and I was responsible for the front-end development of 
+        the application.
+        <br />Technologies used:
+        <table class="table is-hoverable is-fullwidth">
+          <thead>
+            <tr>
+              <th></th>
+              <th title="front-end">Front-end</th>
+              <th title="back-end">Back-end</th>
+              <th title="database">Database</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>Programming languages and frameworks</th>
+              <td>
+                - JavaScript
+                <br />- React.JS
+                <br />- Next.JS
+              </td>
+              <td>
+                - TypeScript
+                <br />- Node.JS
+                <br />- Express.JS
+              </td>
+              <td>
+                - TypeScript
+                <br />- MySQL queries
+              </td>
+            </tr>
+
+            <tr>
+              <th>Libraries</th>
+              <td>
+                - AntDesign
+                <br />- Bulma
+                <br />- React Redux
+              </td>
+              <td></td>
+              <td></td>
+            </tr>
+
+            <tr>
+              <th>Source-code editor</th>
+              <td>Visual Studio Code</td>
+              <td></td>
+              <td>MySQL Developer</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
     </div>
   </div>
 </template>

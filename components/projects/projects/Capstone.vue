@@ -31,38 +31,22 @@
         <section class="modal-card-body">
           <!-- Content ... -->
           <p>
-            This is my capstone project, which me and 2 other
-            classmates have just finished this August of 2020.
+            This is my capstone project, which me and two other
+            classmates have just finished on August of 2020.
             This is, so far, my biggest and most professional
             project. In this project, I was responsible for all of
             the front-end tasks.
           </p>
           <br />
-          <p class="is-text-bold">Technologies used</p>
-          <div>Front-end:</div>
-          <div class="has-indentation">
-            - HTML
-            <br />- CSS
-            <br />- JavaScript
-            <br />- React.js
-            <br />- Next.js
-            <br />- AntDesign library
-            <br />- Bulma library
-            <br />- Axios library
-            <br />
-          </div>
-          <div>Back-end:</div>
-          <div class="has-indentation">
-            - TypeScript
-            <br />- Node.js
-            <br />- Express.js
-            <br />
-          </div>
-          <div>Database:</div>
-          <div class="has-indentation">- SQL database</div>
           <img
             alt="Capstone Home"
             src="../../../static/img/CapstoneHome.png"
+            class="has-margin-bottom"
+          />
+          <div class="divider" />
+          <img
+            alt="Capstone Video Details"
+            src="../../../static/img/CapstoneVideoDetails.png"
             class="has-margin-bottom"
           />
           <div class="divider" />
@@ -87,12 +71,6 @@
           <img
             alt="Capstone Users"
             src="../../../static/img/CapstoneUsers.png"
-            class="has-margin-bottom"
-          />
-          <div class="divider" />
-          <img
-            alt="Capstone Video Details"
-            src="../../../static/img/CapstoneVideoDetails.png"
             class="has-margin-bottom"
           />
         </section>

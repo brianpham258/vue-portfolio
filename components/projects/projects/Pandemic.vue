@@ -32,7 +32,7 @@
           <!-- Content ... -->
           <p>
             This is a 3D game project me and my friend made when we
-            finished a Game Development course at Camosun. The game
+            finished a Game Development course at Camosun College. The game
             was inspirated by the COVID-19 pandemic in 2020. Player
             will roleplay a police officer going around the city
             and shoots facemasks to patients in order to cure them and
@@ -57,10 +57,10 @@ export default {
     };
   },
   methods: {
-    showCapstoneModal: function () {
+    showPandemicModal: function () {
       this.pandemicModalActive = true;
     },
-    hideCapstoneModal: function () {
+    hidePandemicModal: function () {
       this.pandemicModalActive = false;
     },
   },

@@ -11,6 +11,12 @@
         target="_blank"
         rel="noreferrer"
       >GitHub link</a>
+      <br />Technologies used:
+      <div style="margin-left: 30px">
+        <b>Java: </b> the programming language the tool was written on.
+        <br /><b>Selenium WebDriver: </b> for automatically access web's element and perform actions.
+        <br /><b>POI Apache: </b> for automatically read data from excel file then write to any field on the website that needs informations.
+      </div>
     </div>
   </div>
 </template>
