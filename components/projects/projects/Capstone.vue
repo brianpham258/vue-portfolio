@@ -37,12 +37,12 @@
             project. In this project, I was responsible for all of
             the front-end tasks.
           </p>
+          <br />
           <a
             href="https://brianpham.vercel.app"
             target="_blank"
             rel="noreferrer"
           >Checkout the website here</a>
-          <br />
           <br />
           <img
             alt="Capstone Home"
