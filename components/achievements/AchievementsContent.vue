@@ -76,6 +76,13 @@
         It was my Capstone project at Camosun College. I was in a team of 
         three people and I was responsible for the front-end development of 
         the application.
+        <br />
+        <a
+          href="https://brianpham.vercel.app"
+          target="_blank"
+          rel="noreferrer"
+          class="has-margin-left"
+        >Capstone project</a>
         <br />Technologies used:
         <table class="table is-hoverable is-fullwidth">
           <thead>
@@ -112,15 +119,30 @@
                 <br />- Bulma
                 <br />- React Redux
               </td>
-              <td></td>
-              <td></td>
+              <td>
+                - Open API
+                <br />- Vimeo Developer API
+                <br />- Vimeo SDK for Node.JS
+              </td>
+              <td>
+                None
+              </td>
             </tr>
 
             <tr>
-              <th>Source-code editor</th>
-              <td>Visual Studio Code</td>
-              <td></td>
-              <td>MySQL Developer</td>
+              <th>Source-code editor and other tools</th>
+              <td>
+                - Visual Studio Code
+                <br />- Postman API Client
+              </td>
+              <td>
+                - Vim
+                <br />- Postman API Client
+              </td>
+              <td>
+                - MySQL Developer
+                <br />- Visual Studio Code
+              </td>
             </tr>
           </tbody>
         </table>

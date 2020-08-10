@@ -10,10 +10,16 @@
           <br />+1 778 922 6999
           <br />
           <a
-            href="https://www.linkedin.com/in/quang-huy-pham-04a82a16b"
+            href="https://www.linkedin.com/in/brian25"
             target="_blank"
             rel="noreferrer"
           >LinkedIn</a>
+          <br />
+          <a
+            href="https://www.linkedin.com/in/brian25"
+            target="_blank"
+            rel="noreferrer"
+          >Flickr</a>
         </div>
 
         <div class="is-text-bold">Date / Place of birth</div>

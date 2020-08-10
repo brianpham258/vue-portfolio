@@ -37,6 +37,12 @@
             project. In this project, I was responsible for all of
             the front-end tasks.
           </p>
+          <a
+            href="https://brianpham.vercel.app"
+            target="_blank"
+            rel="noreferrer"
+          >Checkout the website here</a>
+          <br />
           <br />
           <img
             alt="Capstone Home"
@@ -44,33 +50,52 @@
             class="has-margin-bottom"
           />
           <div class="divider" />
+
           <img
             alt="Capstone Video Details"
             src="../../../static/img/CapstoneVideoDetails.png"
             class="has-margin-bottom"
           />
           <div class="divider" />
+
           <img
             alt="Capstone Playlists"
             src="../../../static/img/CapstonePlaylists.png"
             class="has-margin-bottom"
           />
           <div class="divider" />
+
           <img
             alt="Capstone Playlist Videos"
             src="../../../static/img/CapstonePlaylistVideos.png"
             class="has-margin-bottom"
           />
           <div class="divider" />
+
           <img
-            alt="Capstone Profile"
-            src="../../../static/img/CapstoneProfile.png"
+            alt="Capstone Categories"
+            src="../../../static/img/CapstoneCategories.png"
             class="has-margin-bottom"
           />
           <div class="divider" />
+
+          <img
+            alt="Capstone Curation"
+            src="../../../static/img/CapstoneCuration.png"
+            class="has-margin-bottom"
+          />
+          <div class="divider" />
+
           <img
             alt="Capstone Users"
             src="../../../static/img/CapstoneUsers.png"
+            class="has-margin-bottom"
+          />
+          <div class="divider" />
+
+          <img
+            alt="Capstone Profile"
+            src="../../../static/img/CapstoneProfile.png"
             class="has-margin-bottom"
           />
         </section>

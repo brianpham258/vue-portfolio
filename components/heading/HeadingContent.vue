@@ -4,7 +4,7 @@
       <img
         src="../../static/img/profilePic.jpg"
         alt="profile"
-        style="width: 200px; height: 250px; border-radius: 10px"
+        style="border-radius: 10px"
       />
     </div>
     <div class="column">
