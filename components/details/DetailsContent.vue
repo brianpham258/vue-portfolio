@@ -16,7 +16,7 @@
           >LinkedIn</a>
           <br />
           <a
-            href="https://www.linkedin.com/in/brian25"
+            href="https://www.flickr.com/people/brianpham2589/"
             target="_blank"
             rel="noreferrer"
           >Flickr</a>
