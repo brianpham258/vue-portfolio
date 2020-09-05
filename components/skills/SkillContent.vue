@@ -3,9 +3,9 @@
     <div id="profile" class="is-background-primary is-title">SKILLS</div>
     <div class="columns is-half-desktop">
       <div id="skills-left" class="column">
-        <div>Front-end Web Development</div>
-        <ProgressBar :stepsCompleted="3" :totalSteps="5" />
         <div>JavaScript</div>
+        <ProgressBar :stepsCompleted="3" :totalSteps="5" />
+        <div>jQuery</div>
         <ProgressBar :stepsCompleted="3" :totalSteps="5" />
         <div>React.JS / Next.JS</div>
         <ProgressBar :stepsCompleted="3" :totalSteps="5" />
