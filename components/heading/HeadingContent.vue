@@ -1,5 +1,5 @@
 <template>
-  <div class="columns is-desktop is-background-primary">
+  <div class="columns is-desktop is-background-primary" style="margin-top: 55px">
     <div class="column is-one-quarter">
       <img
         src="../../static/img/profilePic.jpg"
